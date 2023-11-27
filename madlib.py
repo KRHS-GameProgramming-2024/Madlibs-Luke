@@ -1,6 +1,7 @@
 from getters import *
 from story1 import *
 from screens import *
+from story2 import *
 
 def madlibs(debug = False):
     if debug: print("Welcome to the debug!")
